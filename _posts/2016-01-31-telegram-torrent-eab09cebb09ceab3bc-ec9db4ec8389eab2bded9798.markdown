@@ -3,18 +3,14 @@ author: redreamer
 comments: true
 date: 2016-01-31 01:48:09+00:00
 layout: post
-link: http://seungjuchoi.com/2016/01/31/telegram-torrent-%ea%b0%9c%eb%b0%9c%ea%b3%bc-%ec%9d%b4%ec%83%89%ea%b2%bd%ed%97%98/
-slug: telegram-torrent-%ea%b0%9c%eb%b0%9c%ea%b3%bc-%ec%9d%b4%ec%83%89%ea%b2%bd%ed%97%98
 title: Telegram-Torrent 개발과 이색경험
-wordpress_id: 701
 categories:
-- 프로그래밍
+- programming
 tags:
 - Clien
 - deluge
 - 링크
 - 방문자수
-- ghtalpo
 - java
 - python
 - Telegram

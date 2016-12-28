@@ -3,12 +3,9 @@ author: redreamer
 comments: true
 date: 2016-07-07 07:47:56+00:00
 layout: post
-link: http://seungjuchoi.com/2016/07/07/git-diff-vi%eb%a5%bc-%ed%95%9c%eb%b2%88%ec%97%90/
-slug: git-diff-vi%eb%a5%bc-%ed%95%9c%eb%b2%88%ec%97%90
 title: Git diff + vi를 한번에
-wordpress_id: 1061
 categories:
-- Git 강의
+- git
 tags:
 - 깃
 - git

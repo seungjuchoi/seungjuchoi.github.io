@@ -3,12 +3,9 @@ author: redreamer
 comments: true
 date: 2016-01-02 23:44:28+00:00
 layout: post
-link: http://seungjuchoi.com/2016/01/03/telebot%ec%9d%84-%ec%9d%b4%ec%9a%a9%ed%95%9c-%ec%9b%90%ea%b2%a9-%ed%86%a0%eb%a0%8c%ed%8a%b8-%eb%8b%a4%ec%9a%b4%eb%a1%9c%eb%93%9c-%ec%8b%9c%ec%8a%a4%ed%85%9c/
-slug: telebot%ec%9d%84-%ec%9d%b4%ec%9a%a9%ed%95%9c-%ec%9b%90%ea%b2%a9-%ed%86%a0%eb%a0%8c%ed%8a%b8-%eb%8b%a4%ec%9a%b4%eb%a1%9c%eb%93%9c-%ec%8b%9c%ec%8a%a4%ed%85%9c
 title: Telebot을 이용한 원격 토렌트 다운로드 시스템
-wordpress_id: 461
 categories:
-- 프로그래밍
+- programming
 tags:
 - 라즈베리파이
 - 텔레봇

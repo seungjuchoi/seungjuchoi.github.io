@@ -3,12 +3,9 @@ author: redreamer
 comments: true
 date: 2014-01-31 05:53:08+00:00
 layout: post
-link: http://seungjuchoi.com/2014/01/31/%ec%b2%ad%ec%a4%91%ec%9d%98-3%ec%9a%94%ec%86%8c/
-slug: '%ec%b2%ad%ec%a4%91%ec%9d%98-3%ec%9a%94%ec%86%8c'
 title: '청중의 3요소 '
-wordpress_id: 435
 categories:
-- In box
+- presentation
 ---
 
 프리젠테이션의 주체는 청중입니다. 청중을 이해하는 것은 골키퍼가 어느 방향으로 몸을 날리는 지 알고 볼을 차는 것과 같습니다. 지난 해 10월즈음, 이틀간 진행됐던 사내 프리젠테이션 강의 내용중에서 인상이 깊었던 **청중에 대한 공통점 3가지**를 여러분과 공유하고자 합니다.

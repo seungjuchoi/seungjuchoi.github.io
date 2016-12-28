@@ -3,12 +3,9 @@ author: redreamer
 comments: true
 date: 2016-03-27 17:15:40+00:00
 layout: post
-link: http://seungjuchoi.com/2016/03/28/%eb%bd%80%eb%aa%a8%eb%8f%84%eb%a1%9c%ec%99%80-%ec%83%9d%ec%82%b0%ec%84%b1%ec%9d%b4%ec%95%bc%ea%b8%b0/
-slug: '%eb%bd%80%eb%aa%a8%eb%8f%84%eb%a1%9c%ec%99%80-%ec%83%9d%ec%82%b0%ec%84%b1%ec%9d%b4%ec%95%bc%ea%b8%b0'
 title: 뽀모도로와 생산성이야기
-wordpress_id: 962
 categories:
-- 생산성
+- productivity
 tags:
 - 생산성
 - pomodoro

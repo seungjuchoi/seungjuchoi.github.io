@@ -3,19 +3,16 @@ author: redreamer
 comments: true
 date: 2016-03-15 13:24:27+00:00
 layout: post
-link: http://seungjuchoi.com/2016/03/15/%ec%b1%85-%ec%86%8c%ed%94%84%ed%8a%b8-%ec%8a%a4%ed%82%ac%ea%b3%bc-%ec%a2%8b%ec%9d%80-%ea%b0%9c%eb%b0%9c%ec%9e%90/
-slug: '%ec%b1%85-%ec%86%8c%ed%94%84%ed%8a%b8-%ec%8a%a4%ed%82%ac%ea%b3%bc-%ec%a2%8b%ec%9d%80-%ea%b0%9c%eb%b0%9c%ec%9e%90'
 title: 책 '소프트 스킬'과 좋은 개발자
-wordpress_id: 832
 categories:
-- 책
+- book
 tags:
 - 소프트 스킬
 - 심플프로그래머
 - 프로그래머
 - 존 소메즈
 - 책리뷰
-- simpleprogrammer
+- simple programmer
 ---
 
 인문학적인 자기계발 서적은 많이 읽어봤습니다. 비슷해보여서 집어들고 직접 맞춰 보면 맞지 않는 퍼즐 조각처럼 '그때뿐'인 느낌이었는데요. 아무래도 제 직업이 개발자라 그런게 아닐까 하던 중에 좋은 책 하나를 읽었습니다. 여기서 제가 몇가지 감명받은 내용을 공유하고자 합니다.

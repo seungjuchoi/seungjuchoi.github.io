@@ -3,12 +3,9 @@ author: redreamer
 comments: true
 date: 2016-07-04 23:50:33+00:00
 layout: post
-link: http://seungjuchoi.com/2016/07/05/%ed%83%80%ec%9e%84%eb%a8%b8%ec%8b%a0-git-reflog/
-slug: '%ed%83%80%ec%9e%84%eb%a8%b8%ec%8b%a0-git-reflog'
 title: 타임머신 Git Reflog
-wordpress_id: 1032
 categories:
-- Git 강의
+- git
 tags:
 - 깃
 - 깃허브

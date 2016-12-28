@@ -3,12 +3,9 @@ author: redreamer
 comments: true
 date: 2016-07-18 08:03:10+00:00
 layout: post
-link: http://seungjuchoi.com/2016/07/18/git-stash-%ec%9e%84%ec%8b%9c%ec%a0%80%ec%9e%a5%ea%b8%b0%eb%8a%a5/
-slug: git-stash-%ec%9e%84%ec%8b%9c%ec%a0%80%ec%9e%a5%ea%b8%b0%eb%8a%a5
 title: Git stash 임시저장기능
-wordpress_id: 1120
 categories:
-- Git 강의
+- git
 tags:
 - 깃
 - git

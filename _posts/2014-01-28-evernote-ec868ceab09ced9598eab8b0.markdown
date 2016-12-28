@@ -3,12 +3,12 @@ author: redreamer
 comments: true
 date: 2014-01-28 00:30:20+00:00
 layout: post
-link: http://seungjuchoi.com/2014/01/28/evernote-%ec%86%8c%ea%b0%9c%ed%95%98%ea%b8%b0/
-slug: evernote-%ec%86%8c%ea%b0%9c%ed%95%98%ea%b8%b0
 title: Evernote 소개하기
-wordpress_id: 425
 categories:
-- In box
+- productivity
+tags:
+- evernote
+- note
 ---
 
 **메모장** 하나 소개합니다.

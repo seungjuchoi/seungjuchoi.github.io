@@ -3,12 +3,9 @@ author: redreamer
 comments: true
 date: 2016-07-08 05:39:51+00:00
 layout: post
-link: http://seungjuchoi.com/2016/07/08/git-project-%ec%82%ad%ec%a0%9c-%ed%9b%84-%eb%b3%b5%ea%b5%ac/
-slug: git-project-%ec%82%ad%ec%a0%9c-%ed%9b%84-%eb%b3%b5%ea%b5%ac
 title: Git Project 삭제 후 복구
-wordpress_id: 1078
 categories:
-- Git 강의
+- git
 tags:
 - 깃
 - git

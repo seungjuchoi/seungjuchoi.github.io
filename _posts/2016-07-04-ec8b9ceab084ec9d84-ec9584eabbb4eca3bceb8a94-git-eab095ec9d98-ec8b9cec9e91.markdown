@@ -3,12 +3,10 @@ author: redreamer
 comments: true
 date: 2016-07-04 00:12:01+00:00
 layout: post
-link: http://seungjuchoi.com/2016/07/04/%ec%8b%9c%ea%b0%84%ec%9d%84-%ec%95%84%ea%bb%b4%ec%a3%bc%eb%8a%94-git-%ea%b0%95%ec%9d%98-%ec%8b%9c%ec%9e%91/
-slug: '%ec%8b%9c%ea%b0%84%ec%9d%84-%ec%95%84%ea%bb%b4%ec%a3%bc%eb%8a%94-git-%ea%b0%95%ec%9d%98-%ec%8b%9c%ec%9e%91'
 title: 시간을 아껴주는 Git 강의 - 시작
 wordpress_id: 1019
 categories:
-- Git 강의
+- git
 tags:
 - 깃
 - git

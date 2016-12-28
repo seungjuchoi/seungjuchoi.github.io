@@ -3,12 +3,9 @@ author: redreamer
 comments: true
 date: 2016-07-12 07:31:50+00:00
 layout: post
-link: http://seungjuchoi.com/2016/07/12/%ed%8a%b9%ec%a0%95-git-folder%eb%a7%8c-%eb%8b%a4%ec%9a%b4%eb%b0%9b%ea%b8%b0/
-slug: '%ed%8a%b9%ec%a0%95-git-folder%eb%a7%8c-%eb%8b%a4%ec%9a%b4%eb%b0%9b%ea%b8%b0'
 title: 특정 git folder만 다운받기
-wordpress_id: 1091
 categories:
-- Git 강의
+- git
 tags:
 - download
 - git
