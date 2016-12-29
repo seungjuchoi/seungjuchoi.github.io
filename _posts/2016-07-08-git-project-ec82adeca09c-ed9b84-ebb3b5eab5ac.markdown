@@ -15,14 +15,17 @@ tags:
 간혹, 특정 git folder 전체가 삭제되는 경우가 있다. 이런 경우에는 전체 repo sync를 할 필요없이 특정 folder만 sync하면 복구된다.
 
 [![](http://redreamer.files.wordpress.com/2016/07/wp-1467956777217.png)](http://redreamer.files.wordpress.com/2016/07/wp-1467956777217.png)
+
 삭제된 폴더를 다시 임의로 만들고 그 안으로 경로변경을 한 뒤 repo sync . 을 하면 된다. 현재 경로에 대한 sync작업을 진행하겠다는 의미다.
 
 물론 아래처럼 mkdir작업없이 android 폴더에서 바로 삭제된 폴더명을 써줘도 된다.
 
 [![](http://redreamer.files.wordpress.com/2016/07/wp-1467956783062.png)](http://redreamer.files.wordpress.com/2016/07/wp-1467956783062.png)
+
 폴더명만 되겠는가? git project 명을 바로 적어줘도 좋다. (git project는 manifest.xml파일에서 확인가능하다.)
 
 [![](http://redreamer.files.wordpress.com/2016/07/wp-1467956788921.png)](http://redreamer.files.wordpress.com/2016/07/wp-1467956788921.png)
+
 이렇게 되면 git fetch 후 git merge 작업을 하게 된다.
 
 

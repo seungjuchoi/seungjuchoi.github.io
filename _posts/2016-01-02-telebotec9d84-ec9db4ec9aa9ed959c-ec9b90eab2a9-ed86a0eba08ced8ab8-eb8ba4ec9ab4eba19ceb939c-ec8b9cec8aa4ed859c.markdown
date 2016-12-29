@@ -81,9 +81,13 @@ Telegram을 선택한 이유는 대부분의 Platform지원하고 개발이 쉽�
 ### Raspberry Pi 2
 
 
-[Raspberry Pi2](https://www.raspberrypi.org/products/raspberry-pi-2-model-b/)는 Single Board Computer다. 손바다 보다 작은 크기지만 Linux가 돌아간다.
+[Raspberry Pi2](https://www.raspberrypi.org/products/raspberry-pi-2-model-b/)
 
-[caption id="attachment_548" align="alignnone" width="348"]![raspberry-pi.png](https://redreamer.files.wordpress.com/2015/12/raspberry-pi.png) Rasberry pi2의 이전 제품인 Pi, 크기는 2와 같다.[/caption]
+Single Board Computer다. 손바다 보다 작은 크기지만 Linux가 돌아간다.
+
+![raspberry-pi.png](https://redreamer.files.wordpress.com/2015/12/raspberry-pi.png) 
+
+Rasberry pi2의 이전 제품인 Pi, 크기는 2와 같다.
 
 그래서 이 프로젝트에서 서버 역할을 하기에 충분하다. 또 핸드폰 충전정도의 작은 전력만 소모하기 때문에 하루 종일 켜놓아도 부담없다.
 
@@ -105,7 +109,6 @@ Google TV는 가정 내 공유기와 연결되어 있다. Raspberry pi2는 이�
 
 참고하실 분들을 위해 Github에 공유한다.
 [https://github.com/seungjuchoi/telegram-control-deluge](https://github.com/seungjuchoi/telegram-control-deluge)
-(Version Update 진행중: 댓글 참고)
 
 python으로 작성됐고 크게 3가지로 나눌 수 있다.
 
@@ -146,14 +149,21 @@ $ deluge-console del <id>                  - torrent 삭제
 
 ## Screen Shot
 
+![Screenshot_20160103-082238](https://redreamer.files.wordpress.com/2016/01/screenshot_20160103-082238.png) 
 
-[caption id="attachment_681" align="alignnone" width="1080"]![Screenshot_20160103-082238](https://redreamer.files.wordpress.com/2016/01/screenshot_20160103-082238.png) 검색 요청[/caption]
+검색 요청
 
-[caption id="attachment_692" align="alignnone" width="1080"]![Screenshot_20160103-084112](https://redreamer.files.wordpress.com/2016/01/screenshot_20160103-084112.png) 토렌트 검색[/caption]
+![Screenshot_20160103-084112](https://redreamer.files.wordpress.com/2016/01/screenshot_20160103-084112.png) 
 
-[caption id="attachment_694" align="alignnone" width="1080"]![Screenshot_20160103-084121](https://redreamer.files.wordpress.com/2016/01/screenshot_20160103-084121.png) 검색 후 리스트업[/caption]
+토렌트 검색
 
-[caption id="attachment_693" align="alignnone" width="1080"]![Screenshot_20160103-084125](https://redreamer.files.wordpress.com/2016/01/screenshot_20160103-084125.png) 선택[/caption]
+![Screenshot_20160103-084121](https://redreamer.files.wordpress.com/2016/01/screenshot_20160103-084121.png) 
+
+검색 후 리스트업
+
+![Screenshot_20160103-084125](https://redreamer.files.wordpress.com/2016/01/screenshot_20160103-084125.png) 
+
+선택
 
 
 

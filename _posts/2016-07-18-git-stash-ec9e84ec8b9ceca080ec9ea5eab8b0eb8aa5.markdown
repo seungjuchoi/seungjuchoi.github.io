@@ -35,6 +35,7 @@ tags:
 사용방법은 stack 구조와 비유하면 간단하다.
 
 [![](http://redreamer.files.wordpress.com/2016/07/wp-1469157007146.png)](http://redreamer.files.wordpress.com/2016/07/wp-1469157007146.png)
+
 코드 변경 내역을 넣을 때는
 
 
@@ -58,6 +59,7 @@ stash를 수행하면 붉은 색으로 표기됐던 수정 내역이 사라져 c
 git stash list 를 수행하면
 
 [![](http://redreamer.files.wordpress.com/2016/07/wp-1469157214091.png)](http://redreamer.files.wordpress.com/2016/07/wp-1469157214091.png)
+
 이런 스택의 구조를 볼 수 있다. 변경 점을 눈으로 확인하고 싶다면 Edit
 
 
