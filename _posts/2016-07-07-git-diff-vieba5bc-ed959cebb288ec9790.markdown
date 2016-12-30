@@ -36,7 +36,8 @@ tags:
 다음은 관련 단축키다.
 
 
-<blockquote>do - Get changes from other window into the current window.
+```
+do - Get changes from other window into the current window.
 dp - Put the changes from current window into the other window.
 ]c - Jump to the next change.
 [c - Jump to the previous change.
@@ -47,8 +48,8 @@ zc -> close fold.
 zr -> reducing folding level.
 zm -> one more folding level, please.
 zR -> Reduce completely the folding, I said!.
-zM -> fold Most!.</blockquote>
-
+zM -> fold Most!.
+```
 
 
 
