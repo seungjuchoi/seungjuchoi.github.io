@@ -80,14 +80,14 @@ MessageCounter는 실행할 Class자리리고 TOKEN은 Telegram에서 부여받�
 
 2. **Torrent Search**
 Torrent Search Site에 따라 알맞은 툴을 써야 한다. 처음에는 python web 분석 툴로 유명한 [Beautiful Soup](http://www.crummy.com/software/BeautifulSoup/)를 사용하려 했으나 막히는 부분이 있었다. 고민 끝에 Target이었던 Torrent site에서 검색 결과를 RSS로도 제공해준다는 것을 보고 그쪽으로 선회했다.Feedparser는 RSS를 Parsing하는 Tool로 자세한 방법은 [여기](http://pythonhosted.org/feedparser/)를 참고하면 된다.
-Parsing은 아래 한줄이면 된다. <br/>
+Parsing은 아래 한줄이면 된다.  
 ```python
 self.navi = feedparser.parse(대상 웹사이트)
 ```
 
 3. **Torrent Torrent Download**
 리눅스 기반에 설치가능한 토렌트 시스템에는 여러 가지가 있다. 그중에 [Transmission](http://www.transmissionbt.com/)은 사용해봤기 때문에 [Deluge](http://www.deluge-torrent.org/)를 사용해봤다. 비슷하지만 좀 더  Web과 App에서 상대적으로 유려한 UI를 제공해준다.
-Deluge-console을 apt에서 설치하면 Linux Shell에서 핵심적인 command를 수행할 수 있다. <br/>
+Deluge-console을 apt에서 설치하면 Linux Shell에서 핵심적인 command를 수행할 수 있다.  
 ```bash
 $ deluge-console add <magnet>      # torrent 추가
 $ deluge-console info              # 현재 상태정보
