@@ -75,22 +75,19 @@ Telebot에서 제공해주는 API를 사용하면 된다. [공식 사이트](htt
 Telepot: Python framework for Telegram Bot API.
 [https://github.com/nickoala/telepot](https://github.com/nickoala/telepot)
 bot의 b를 위아래로 뒤집으면 p라는 점이 새삼 재밌어 보여서 선택했는데 꽤 편리한 Python API를 제공했다.Example을 보면 아래 단 세줄이 Telegram과 내 서버를 이어 주는 코드다.
-![제목 없음](https://redreamer.files.wordpress.com/2016/01/eca09cebaaa9-ec9786ec9d8c.png)
-
+![제목 없음](https://redreamer.files.wordpress.com/2016/01/eca09cebaaa9-ec9786ec9d8c.png) <br/>
 MessageCounter는 실행할 Class자리리고 TOKEN은 Telegram에서 부여받은 BOT Key다.
 
 2. **Torrent Search**
 Torrent Search Site에 따라 알맞은 툴을 써야 한다. 처음에는 python web 분석 툴로 유명한 [Beautiful Soup](http://www.crummy.com/software/BeautifulSoup/)를 사용하려 했으나 막히는 부분이 있었다. 고민 끝에 Target이었던 Torrent site에서 검색 결과를 RSS로도 제공해준다는 것을 보고 그쪽으로 선회했다.Feedparser는 RSS를 Parsing하는 Tool로 자세한 방법은 [여기](http://pythonhosted.org/feedparser/)를 참고하면 된다.
-Parsing은 아래 한줄이면 된다.
-
+Parsing은 아래 한줄이면 된다. <br/>
 ```python
 self.navi = feedparser.parse(대상 웹사이트)
 ```
 
 3. **Torrent Torrent Download**
 리눅스 기반에 설치가능한 토렌트 시스템에는 여러 가지가 있다. 그중에 [Transmission](http://www.transmissionbt.com/)은 사용해봤기 때문에 [Deluge](http://www.deluge-torrent.org/)를 사용해봤다. 비슷하지만 좀 더  Web과 App에서 상대적으로 유려한 UI를 제공해준다.
-Deluge-console을 apt에서 설치하면 Linux Shell에서 핵심적인 command를 수행할 수 있다.
-
+Deluge-console을 apt에서 설치하면 Linux Shell에서 핵심적인 command를 수행할 수 있다. <br/>
 ```bash
 $ deluge-console add <magnet>      # torrent 추가
 $ deluge-console info              # 현재 상태정보
