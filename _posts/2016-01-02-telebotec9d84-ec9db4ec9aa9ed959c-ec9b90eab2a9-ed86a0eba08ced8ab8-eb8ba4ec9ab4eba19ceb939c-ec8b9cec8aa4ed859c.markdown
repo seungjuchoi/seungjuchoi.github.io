@@ -62,7 +62,8 @@ Google TV는 가정 내 공유기와 연결되어 있다. Raspberry pi2는 이�
 ![20151220_170638.png](https://redreamer.files.wordpress.com/2015/12/20151220_170638.png)
 
 ## 코드 설명
-참고하실 분들을 위해 Github에 공유한다.
+참고하실 분들을 위해 Github에 공유한다.  
+현재 코드는 개인적인 사정으로 2017-02-14 오후 8시부터 공개됩니다. 양해바랍니다. :)
 
 [https://github.com/seungjuchoi/telegram-control-deluge](https://github.com/seungjuchoi/telegram-control-deluge)
 
